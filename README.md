@@ -11,13 +11,12 @@ OpenGL / GLU / freeglut を用いて3D空間上にルービックキューブを
 
 <!-- 動作GIFまたはスクリーンショットを追加したら、以下のコメントアウトを外してください -->
 
-<!--
-![demo](docs/demo.gif)
--->
+[demo](docs/demo.gif)
 
-<!--
-![screenshot](docs/screenshot.png)
--->
+
+
+[screenshot](docs/rubik.png)
+
 
 ## 制作背景
 
